@@ -1,0 +1,66 @@
+# ============================================================================
+# DisierTECH OpenClaw Stack — .gitignore
+# https://disier.tech
+# ============================================================================
+
+# ─── Node.js ────────────────────────────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+
+# ─── OpenClaw Agent Data ────────────────────────────────────────────────────
+# Never commit agent keys, identity, or conversation history
+.openclaw/
+workspace/
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+
+# ─── Environment & Secrets ─────────────────────────────────────────────────
+.env
+.env.local
+.env.production
+.env.*.local
+*.key
+*.pem
+*.p12
+
+# ─── Docker ─────────────────────────────────────────────────────────────────
+docker-compose.override.yml
+
+# ─── OS Files ───────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# ─── IDE / Editor ──────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+*.code-workspace
+
+# ─── Logs ───────────────────────────────────────────────────────────────────
+logs/
+*.log
+
+# ─── Build Artifacts ───────────────────────────────────────────────────────
+dist/
+build/
+.cache/
+.tmp/
+tmp/
+
+# ─── Coverage & Testing ────────────────────────────────────────────────────
+coverage/
+.nyc_output/
